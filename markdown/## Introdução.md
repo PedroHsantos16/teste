@@ -168,7 +168,7 @@ print("Olá, Mundo!")
 [^1]: este é um exemplo de rodapé
 
 
-1. **Emojis:** PAra colocar emojis, basta colocar o nome do emoji entre <>.
+1. **Emojis:** Para colocar emojis, basta colocar o nome do emoji entre <>.
 
 ``Por exemplo:`` 
 
