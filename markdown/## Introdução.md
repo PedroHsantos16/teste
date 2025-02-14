@@ -121,7 +121,7 @@ ou
 
 o que está entre colchetes [] é o texto alternativo, caso a imagem não apareça, já o que está entre parênteses () é o caminho para imagem. O caminho pode ser uma pasta do seu computador, ou um link que redirecione para a imagem
 
-<br>esta imagem está dentro da pasta imagens
+esta imagem está dentro da pasta imagens<br>
 ![Texto Alternativo](imagens/images.png)
 
 <br>Já esta imagem, está na internet, o que está entre parênteses é o link que leva a imagem
