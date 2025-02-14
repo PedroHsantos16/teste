@@ -1,3 +1,10 @@
+**Nomes:** Pedro Santos  
+Derick Prado  
+Adrian Eusébio  
+João Andrade  
+Guilherme Niza  
+
+
 ## <p>Introdução</p>
 
 * O que é Markdown e por que utilizá-lo no GitHub?  
