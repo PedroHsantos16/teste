@@ -156,9 +156,11 @@ print("Olá, Mundo!")
 ## Elementos avançados
 
 1. **Notas de rodapé:** Para fazer uma nota de rodapé, basta colocar  
-[^1] na frase.
+\[^1] na frase.
 
 ``Por exemplo:``  
+[^1]: este é um exemplo de rodapé
+
 
 [^1]: coloque no começo da frase para fazer um rodapé  
 coloque no meio de uma [^1] frase para fazer um rodapé
