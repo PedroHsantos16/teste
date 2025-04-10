@@ -18,7 +18,7 @@ O projeto consiste em criar um sistema de controle de luminosidade para plantas 
 ![circuito](img/codigo_circuito2.png)  
 
 
-![link github] (https://github.com/PedroHsantos16/teste/blob/main/markoooosss/estufa.md)
+![link github](https://github.com/PedroHsantos16/teste/blob/main/markoooosss/estufa.md)
 
 
 ## referências  
