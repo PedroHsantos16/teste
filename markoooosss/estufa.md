@@ -18,7 +18,7 @@ O projeto consiste em criar um sistema de controle de luminosidade para plantas 
 ![circuito](img/codigo_circuito2.png)  
 
 
-
+![link](https://www.tinkercad.com/things/d3Ij1KkFdtB/editel)
 
 
 ## referências  
