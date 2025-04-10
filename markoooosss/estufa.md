@@ -1,3 +1,8 @@
+Nome: Pedro Santos  
+Guilherme Niza  
+Derick Prado  
+João Andrade  
+
 ## Introdução  
 
 Desde os primórdios da civilização, a humanidade tende a cultivar plantas tantos para fins alimentares quanto para fins ornamentais. Atualmente as plantas ornamentais são requisitadas em jardins, tanto externos quanto internos, além de áreas verdes em ambientes diversos, sejam particulares ou públicos. Certas plantas ornamentais não suportam alta luminosidade, e por isso precisam de um ambiente com luminosidade controlada para crescer saudáveis.  
